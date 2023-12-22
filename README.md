@@ -2,7 +2,7 @@
 
 **Introduction:**
 
-This project is designed to harness the power of machine learning for the purpose of understanding the sentiment expressed in movie reviews. The project primarily employs Python, utilizing popular libraries such as Pandas, Matplotlib, NLTK, and Scikit-learn. The central goal is to determine whether a given movie review conveys positive or negative sentiments.
+This project is designed to harness the power of machine learning for the purpose of understanding the sentiment expressed in movie reviews. The project primarily employs Python, utilizing popular libraries such as Pandas, Matplotlib, NLTK, and Scikit-learn. The central goal is to determine whether a given movie review conveys positive or negative sentiments
 
 **Data Loading and Cleaning:**
 
